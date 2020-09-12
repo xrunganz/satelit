@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 #tools sederhana
 #prank hack satelit
-#by LxG_9 Gans
+#by Xploit-nahrunganz
 clear
 blue='\033[34;1m'
 green='\033[32;1m'
@@ -9,14 +9,14 @@ purple='\033[35;1m'
 cyan='\033[36;1m'
 red='\033[31;1m'
 echo " "
-echo  $blue "<|======================================|>"
-echo  $red    "|       TOOLS HACK SATELIT          |"
-echo  $red    "|                                   |"
-echo  $red    "| Author        : Xploit-N4HRUN G4NZ             |"
-echo  $red    "| Contact       : 081226988596      |"
+echo  $blue "<|=======================================|>"
+echo  $red    "|       TOOLS HACK SATELIT             |"
+echo  $red    "|                                      |"
+echo  $red    "| Author        : Xploit-N4HRUN G4NZ   |         |"
+echo  $red    "| Contact       : 083132663855         |"
 echo  $red    "| My Team       : Security Xploit Crew |"
-echo  $red    "| Thanks To     : Mr.TegarXploit        |"
-echo  $blue "<|======================================|>"
+echo  $red    "| Thanks To     : Mr.TegarXploit       |"
+echo  $blue "<|=======================================|>"
 sleep 1
 echo " "
 echo $green "============== $red MENU $green ================="
@@ -28,14 +28,14 @@ echo $blue "|| $green 4. Geser Satelit Nasa         $blue ||"
 echo $blue "|| $green 0. Exit The Program           $blue ||"
 echo $blue "===================================="
 echo $blue"╭──[Masukkan Pilihan Anda]>"
-read -p"╰───────root@GilangKun=•>" Gans;
+read -p"╰───────root@N4Hrun=•>" Gans;
 if [ $Gans = 1 ] || [ $Gans = 01 ]
 then
 echo $blue"╭──[Mau Kearah Mana]>"
-read -p"╰───────root@GilangKun=•>" arah;
+read -p"╰───────root@N4Hrun=•>" arah;
 sleep 1
 echo $green"╭──[Mau Digeser Berapa Derajat]>"
-read -p"╰───────root@GilangKun=•>" derajat;
+read -p"╰───────root@N4Hrun=•>" derajat;
 sleep 1
 echo $red "Loading"
 sleep 1
@@ -61,16 +61,16 @@ echo $blue "100%"
 sleep 1
 echo $green "Prosessing Done"
 sleep 1
-echo  $blue "Satelit Berhasi  Digeser ke arah $arah sejauh $derajat derajat"
+echo  $gold "Satelit Berhasi  Digeser ke arah $arah sejauh $derajat derajat"
 fi
 
 if [ $Gans = 2 ] || [ $Gans = 02 ]
 then
 echo $blue"╭──[Mau Kearah Mana]>"
-read -p"╰───────root@GilangKun=•>" arah;
+read -p"╰───────root@N4Hrun=•>" arah;
 sleep 1
 echo $green"╭──[Mau Digeser Berapa Derajat]>"
-read -p"╰───────root@GilangKun=•>" derajat;
+read -p"╰───────root@N4Hrun=•>" derajat;
 sleep 1
 echo $red "Loading"
 sleep 1
@@ -96,16 +96,16 @@ echo $blue "100%"
 sleep 1
 echo $green "Prosessing Done"
 sleep 1
-echo  $blue "Satelit Berhasil Digeser ke arah $arah sejauh $derajat derajat"
+echo  $gold "Satelit Berhasil Digeser ke arah $arah sejauh $derajat derajat"
 fi
 
 if [ $Gans = 3 ] || [ $Gans = 03 ]
 then
 echo $blue"╭──[Mau Kearah Mana]>"
-read -p"╰───────root@GilangKun=•>" arah;
+read -p"╰───────root@N4Hrun=•>" arah;
 sleep 1
 echo $green"╭──[Mau Digeser Berapa Derajat]>"
-read -p"╰───────root@GilangKun=•>" derajat;
+read -p"╰───────root@N4Hrun=•>" derajat;
 sleep 1
 echo $red "Loading"
 sleep 1
@@ -131,16 +131,16 @@ echo $blue "100%"
 sleep 1
 echo $green "Prosessing Done"
 sleep 1
-echo  $blue "Satelit Berhasil Digeser ke arah $arah sejauh $derajat derajat"
+echo  $gold "Satelit Berhasil Digeser ke arah $arah sejauh $derajat derajat"
 fi
 
 if [ $Gans = 4 ] || [ $Gans = 04 ]
 then
 echo $blue"╭──[Mau Kearah Mana]>"
-read -p"╰───────root@GilangKun=•>" arah;
+read -p"╰───────root@N4Hrun=•>" arah;
 sleep 1
 echo $green"╭──[Mau Digeser Berapa Derajat]>"
-read -p"╰───────root@GilangKun=•>" derajat;
+read -p"╰───────root@N4Hrun=•>" derajat;
 sleep 1
 echo $red "Loading"
 sleep 1
@@ -166,7 +166,7 @@ echo $blue "100%"
 sleep 1
 echo $green "Prosessing Done"
 sleep 1
-echo  $blue "Satelit Berhasil Digeser ke arah $arah sejauh $derajat derajat"
+echo  $gold "Satelit Berhasil Digeser ke arah $arah sejauh $derajat derajat"
 fi
 
 if [ $Gans = 0 ] || [ $Gans = 00 ]
